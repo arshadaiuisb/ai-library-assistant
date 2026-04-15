@@ -1,8 +1,98 @@
 title,author,subject
 Artificial Intelligence,Stuart Russell,AI
 Machine Learning,Tom Mitchell,AI
-Python Programming,John Zelle,Programming
-Data Science Handbook,Jake VanderPlas,Data Science
-Library Management,Ranganathan,Library Science
 Deep Learning,Ian Goodfellow,AI
+Pattern Recognition,Christopher Bishop,AI
+AI Superpowers,Kai-Fu Lee,AI
+Python Programming,John Zelle,Programming
+Automate the Boring Stuff,Al Sweigart,Programming
+Clean Code,Robert Martin,Programming
+Code Complete,Steve McConnell,Programming
+The Pragmatic Programmer,Andrew Hunt,Programming
+Data Science Handbook,Jake VanderPlas,Data Science
+Python for Data Analysis,Wes McKinney,Data Science
+Big Data,Viktor Mayer,Data Science
+Data Mining,Ian Witten,Data Science
+Statistics for DS,James Miller,Data Science
+Library Management,Ranganathan,Library Science
+Digital Libraries,William Arms,Library Science
 Information Retrieval,Christopher Manning,Library Science
+Cataloging Basics,Anne Welsh,Library Science
+Knowledge Organization,Smiraglia,Library Science
+Computer Networks,Andrew Tanenbaum,IT
+Operating Systems,Silberschatz,IT
+Database Systems,Elmasri & Navathe,IT
+Cyber Security,William Stallings,IT
+Cloud Computing,Rajkumar Buyya,IT
+Introduction to Algorithms,CLRS,Programming
+Artificial Neural Networks,Simon Haykin,AI
+Reinforcement Learning,Richard Sutton,AI
+Speech Recognition,Daniel Jurafsky,AI
+Natural Language Processing,Jurafsky & Martin,AI
+Web Development,Jon Duckett,Programming
+Java Programming,Herbert Schildt,Programming
+C++ Primer,Stanley Lippman,Programming
+R Programming,Hadley Wickham,Programming
+SQL Cookbook,Anthony Molinaro,Programming
+Predictive Analytics,Eric Siegel,Data Science
+Data Visualization,Andy Kirk,Data Science
+Machine Learning Yearning,Andrew Ng,AI
+AI Basics,Tom Taulli,AI
+Deep Reinforcement Learning,Li,AI
+Library Automation,Koha Manual,Library Science
+Digital Archives,Luciana Duranti,Library Science
+Metadata Basics,Marcia Lei Zeng,Library Science
+Information Behavior,Wilson,Library Science
+Systems Analysis,Kendall,IT
+Computer Architecture,Hennessy,IT
+Network Security,Stallings,IT
+Linux Administration,Evi Nemeth,IT
+DevOps Handbook,Kim,IT
+Agile Development,Martin Fowler,Programming
+Software Engineering,Ian Sommerville,Programming
+Design Patterns,Gamma,Programming
+Refactoring,Martin Fowler,Programming
+Clean Architecture,Robert Martin,Programming
+Business Intelligence,Carlo Vercellis,Data Science
+Data Warehousing,Inmon,Data Science
+Big Data Analytics,Minelli,Data Science
+Statistical Learning,Hastie,Data Science
+AI Ethics,Mark Coeckelbergh,AI
+Explainable AI,Molnar,AI
+Robotics,John Craig,AI
+Computer Vision,Szeliski,AI
+Augmented Reality,Dieter Schmalstieg,IT
+Internet of Things,Samuel Greengard,IT
+Blockchain Basics,Daniel Drescher,IT
+Human Computer Interaction,Alan Dix,IT
+UI/UX Design,Don Norman,IT
+Game Development,Jason Gregory,Programming
+Mobile App Development,Charlie Collins,Programming
+Android Development,Bill Phillips,Programming
+iOS Development,Ray Wenderlich,Programming
+Flask Web Development,Miguel Grinberg,Programming
+Django for Beginners,William Vincent,Programming
+TensorFlow Guide,Google Team,AI
+PyTorch Guide,Facebook AI,AI
+Keras Deep Learning,Chollet,AI
+AI for Everyone,Andrew Ng,AI
+Library Leadership,Peter Hernon,Library Science
+Academic Libraries,Evans,Library Science
+Information Literacy,Association of College,Library Science
+Digital Curation,Abbott,Library Science
+Preservation Management,Gorman,Library Science
+IT Project Management,Schwalbe,IT
+Computer Graphics,Hearn & Baker,IT
+Parallel Computing,Grama,IT
+Distributed Systems,Tanenbaum,IT
+Quantum Computing,Nielsen,IT
+Ethical Hacking,EC-Council,IT
+Penetration Testing,Georgia Weidman,IT
+Scrum Guide,Schwaber,Programming
+Extreme Programming,Kent Beck,Programming
+Full Stack Development,Accomazzo,Programming
+Microservices Architecture,Newman,Programming
+Cloud Native Apps,Cornelia Davis,Programming
+Data Ethics,Louise Amoore,Data Science
+AI and Society,Frank Pasquale,AI
+Future of AI,Max Tegmark,AI
