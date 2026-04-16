@@ -1,10 +1,20 @@
 import streamlit as st
 import pandas as pd
-
+import matplotlib.pyplot as plt
+st.markdown("""
+<div style='text-align:center; padding:20px; background: linear-gradient(90deg,#1f4e79,#4CAF50); border-radius:10px; color:white'>
+<h1>🚀 AI Smart Library System</h1>
+<p>Search • Discover • Learn with AI</p>
+</div>
+""", unsafe_allow_html=True)
 st.set_page_config(page_title="AI Library Assistant", layout="wide")
 
 # Load data
-data = pd.read_csv("library.csv")
+@st.cache_data
+def load_data():
+    return pd.read_csv("library.csv")
+
+data = load_data()
 
 # ---------- STYLE ----------
 st.markdown("""
