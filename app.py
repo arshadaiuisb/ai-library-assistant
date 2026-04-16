@@ -8,6 +8,12 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 st.set_page_config(page_title="AI Library Assistant", layout="wide")
+st.markdown("""
+<div style='text-align:center; padding:25px; background: linear-gradient(90deg,#1f4e79,#4CAF50); border-radius:12px; color:white'>
+<h1>🚀 AI Smart Library System</h1>
+<p>Search • Discover • Learn with AI</p>
+</div>
+""", unsafe_allow_html=True)
 
 # Load data
 @st.cache_data
