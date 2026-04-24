@@ -83,3 +83,4 @@ col1.metric("Total Books", len(data))
 col2.metric("Subjects", data['subject'].nunique())
 col3.metric("Authors", data['author'].nunique())
 st.info("You can later connect this app with Koha API or OpenAI API for advanced answers.")
+import PyPDF2
