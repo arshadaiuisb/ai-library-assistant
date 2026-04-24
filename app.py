@@ -69,7 +69,15 @@ with st.sidebar:
         st.rerun() st.markdown("## 📊 AI Insights Dashboard")
 
 col1, col2, col3 = st.columns(3)
+if search:
+    st.markdown("### 🤖 Smart Recommendations")
 
+    recs = data[data['subject'].str.contains(search, case=False)]
+
+    if not recs.empty:
+        top = recs.head(3)
+        for _, row in top.iterrows():
+            st.success(f"📘 {row['title']} by {row['author']}")
 col1.metric("Total Books", len(data))
 col2.metric("Subjects", data['subject'].nunique())
 col3.metric("Authors", data['author'].nunique())
