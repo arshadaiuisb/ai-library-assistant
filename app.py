@@ -66,7 +66,8 @@ with st.sidebar:
 
     if st.button("Clear Chat"):
         st.session_state.messages = []
-        st.rerun() st.markdown("## 📊 AI Insights Dashboard")
+        st.rerun() 
+        st.markdown("## 📊 AI Insights Dashboard")
 
 col1, col2, col3 = st.columns(3)
 if search:
