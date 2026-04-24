@@ -66,6 +66,12 @@ with st.sidebar:
 
     if st.button("Clear Chat"):
         st.session_state.messages = []
-        st.rerun()
+        st.rerun() st.markdown("## 📊 AI Insights Dashboard")
+
+col1, col2, col3 = st.columns(3)
+
+col1.metric("Total Books", len(data))
+col2.metric("Subjects", data['subject'].nunique())
+col3.metric("Authors", data['author'].nunique())
 
     st.info("You can later connect this app with Koha API or OpenAI API for advanced answers.")
